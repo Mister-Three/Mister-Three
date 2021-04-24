@@ -1,4 +1,4 @@
-### (https://github.com/milkycereal)
+### https://github.com/milkycereal
 
 <a href="https://discord.gg/ymcfVNmhFA">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
