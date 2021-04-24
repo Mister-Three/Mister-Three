@@ -1,7 +1,6 @@
-### https://github.com/milkycereal
-
+<img align="left" alt="Dem" width="30px" src="https://cdn.discordapp.com/emojis/803053340391899176.png?v=1" /> ### Join my discord server
 <a href="https://discord.gg/ymcfVNmhFA">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>https://discord.gg/ymcfVNmhFA
 <br/>
 <br/>
