@@ -1,5 +1,5 @@
 <a href="https://discord.gg/ymcfVNmhFA">
-  <img align="left" alt="Dem" width="30px" src="https://cdn.discordapp.com/emojis/803053340391899176.png?v=1" /> 
+  <img align="left" alt="Dem" width="21px" src="https://cdn.discordapp.com/emojis/803053340391899176.png?v=1"/> 
 </a>Join my discord server
 <a href="https://discord.gg/ymcfVNmhFA">
 </a>https://discord.gg/ymcfVNmhFA
